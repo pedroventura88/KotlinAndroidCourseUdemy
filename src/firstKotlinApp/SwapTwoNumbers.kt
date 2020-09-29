@@ -1,3 +1,5 @@
+package firstKotlinApp
+
 fun main() {
 
     // Codigo estará atribuindo novos valores as variaveis

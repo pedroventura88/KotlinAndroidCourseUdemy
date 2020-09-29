@@ -1,3 +1,5 @@
+package firstKotlinApp
+
 fun main(){
 
     //definindo uma variavel IMUTÁVEL SEM tipo

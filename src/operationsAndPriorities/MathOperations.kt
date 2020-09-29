@@ -1,3 +1,5 @@
+package operationsAndPriorities
+
 fun main() {
 
     print("Enter number one: ")
